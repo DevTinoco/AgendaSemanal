@@ -1,0 +1,19 @@
+# Agenda de Estudos em Java
+
+Este é um programa de agenda de estudos em Java, projetado para ajudar a organizar e gerenciar suas tarefas e conteúdos de estudo, especialmente focado em tópicos relacionados à linguagem de programação Java.
+
+## Descrição
+
+O programa permite que você adicione, remova e liste tarefas de estudo. Além disso, inclui uma lista de conteúdos de estudo para Java, que você pode adicionar às suas tarefas. O programa também suporta a persistência de dados, salvando a agenda em um arquivo para que suas tarefas sejam mantidas entre as execuções.
+
+## Pré-requisitos
+
+- JDK (Java Development Kit) instalado no seu sistema.
+- Um editor de texto ou IDE para editar e compilar o código Java.
+
+## Como Usar
+
+### 1. Clonar o Repositório
+
+```bash
+ git remote add origin git@github.com:DevTinoco/AgendaSemanal.git
