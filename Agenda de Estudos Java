@@ -1,0 +1,23 @@
+# Agenda de Estudos em Java
+
+## Descrição
+Este é um programa de agenda de estudos desenvolvido em Java que ajuda os usuários a organizar e gerenciar suas atividades de estudo. Com este programa, é possível adicionar, visualizar, editar e excluir tarefas relacionadas aos estudos, como aulas, exercícios e revisões. A aplicação possui uma interface gráfica intuitiva desenvolvida com JavaFX.
+
+## Funcionalidades
+- Adicionar nova tarefa de estudo
+- Visualizar tarefas de estudo
+- Editar tarefa existente
+- Excluir tarefa
+- Buscar tarefa por nome
+- Marcar tarefas como concluídas
+
+## Tecnologias Utilizadas
+- Java
+
+## Requisitos
+- JDK 11 ou superior
+
+## Instalação
+1. **Clone o repositório:**
+   ```sh
+   
